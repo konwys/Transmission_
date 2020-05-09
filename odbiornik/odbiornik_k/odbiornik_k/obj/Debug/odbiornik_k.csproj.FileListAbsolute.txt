@@ -1,0 +1,6 @@
+C:\WebForm\odbiornik\odbiornik_k\odbiornik_k\bin\Debug\odbiornik_k.exe.config
+C:\WebForm\odbiornik\odbiornik_k\odbiornik_k\bin\Debug\odbiornik_k.exe
+C:\WebForm\odbiornik\odbiornik_k\odbiornik_k\bin\Debug\odbiornik_k.pdb
+C:\WebForm\odbiornik\odbiornik_k\odbiornik_k\obj\Debug\odbiornik_k.csprojAssemblyReference.cache
+C:\WebForm\odbiornik\odbiornik_k\odbiornik_k\obj\Debug\odbiornik_k.exe
+C:\WebForm\odbiornik\odbiornik_k\odbiornik_k\obj\Debug\odbiornik_k.pdb

@@ -1,0 +1,9 @@
+C:\WebForm\odbiornik\odbiornik\bin\Debug\odbiornik.exe.config
+C:\WebForm\odbiornik\odbiornik\bin\Debug\odbiornik.exe
+C:\WebForm\odbiornik\odbiornik\bin\Debug\odbiornik.pdb
+C:\WebForm\odbiornik\odbiornik\obj\Debug\odbiornik.csprojAssemblyReference.cache
+C:\WebForm\odbiornik\odbiornik\obj\Debug\odbiornik.Form1.resources
+C:\WebForm\odbiornik\odbiornik\obj\Debug\odbiornik.Properties.Resources.resources
+C:\WebForm\odbiornik\odbiornik\obj\Debug\odbiornik.csproj.GenerateResource.cache
+C:\WebForm\odbiornik\odbiornik\obj\Debug\odbiornik.exe
+C:\WebForm\odbiornik\odbiornik\obj\Debug\odbiornik.pdb
