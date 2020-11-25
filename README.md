@@ -1,3 +1,7 @@
-# transmisja
-Dwie aplikacje komunikujące się ze sobą, najpierw nalezy uruchomic odbiornik i wlaczyc go przyciskiem start ("serwer aktywny"),
-nastepnie w nadajniku mozna wpisywac wiadomosc ktora jest zamieniana na ciąg bitów i wysylana do odbiornika gdzie jest tłumaczona i wyświetlana .
+# Transmisja
+### Opis projektu : 
+#### Dwie aplikacje okienkowe komunikujące się ze sobą za pomocą Socket'a TCP.
+### w nadajniku nadajemy wiadomość (wiadomość jest odpowiednio kodowana-standard RS232), nastepnie w odbiornkiu jest tłumaczona i wyświetlana
+
+### Użyte technologie:
+#### winforms C#
